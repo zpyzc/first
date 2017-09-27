@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 aaaaaaaaaaaaa
-=======
 bbbbbbb
->>>>>>> css
